@@ -2,6 +2,8 @@
 This include was created strictly for study purposes, focusing on binary file handling and memory behavior in Pawn.
 It is not intended to be a safe, complete, or production-ready data management system and may contain limitations or unhandled edge cases.
 
+![aa](https://github.com/mateus-bsod/pawn-binary-storage/blob/main/image.png)
+
 > [!WARNING]
 > This include requires an increased dynamic memory size due to intensive use of runtime buffers, strings, and binary data handling.
 > Before using this library, you must define:
